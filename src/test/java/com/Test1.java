@@ -22,7 +22,7 @@ public class Test1 {
         str.keys("*").forEach(a-> System.out.println(a));
         System.out.println(str.delete("name"));
 
-
+        System.out.println("666");
 
     }
 
